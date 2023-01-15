@@ -1,2 +1,4 @@
-# EndCredit
-End Credit simulator using Python and Pygame
+# EndCredits
+End Credit simulation using Python and Pygame.
+
+![](https://github.com/JoshuaSaikali/EndCredits/blob/main/example.gif)
